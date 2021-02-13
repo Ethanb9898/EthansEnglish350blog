@@ -6,8 +6,12 @@ https://furnaceandfugue.org/
 
 # Project Review
 Furnace and Fugues is an interactive online project that revives “Atlanta Fugiens”, a collection of 50 epigrams, emblems and fugues, a melody meant to be sung by three people, published in 1618 by Michael Maier.  These works have all been expertly digitalized with tools allowing users to swap between the translations and original work with ease.  The site has been written with an in-house custom site generator named furnace with details listed in their github repository.   
-The site itself is easy to access and understand.  The newly digitalized works are the first thing people see and leads itself well to an average viewer.  One of the only disappointments with the site is the color scheme and layout on the main menus.  The bright orange colors make the background pop while leaving the text hard to read.  I feel like this issue is a simple one and could be easily fixed by a change in color or layout that would allow the text to be easier to read.
+The site itself is easy to access and understand.  The newly digitalized works are the first thing people see and leads itself well to an average viewer.  One of the only disappointments with the site is the color scheme and layout on the main menus.  The bright orange colors make the background pop while leaving the text hard to read.
+
 ![for blog](https://user-images.githubusercontent.com/78226473/107837083-4f0c4880-6d6d-11eb-935e-69d9280d0499.png)
+
+I feel like this issue is a simple one and could be easily fixed by a change in color or layout that would allow the text to be easier to read.
+
 	
 this problem disappears once you get into the meat of the project.  The Emblems themselves are beautifully arranged from one to 50 with features that allow easy access to each.  The emblems are separated into two screens that show both the original work and the digitalized translations side by side as you scroll.  In case this became a problem for certain users, there is also the option to only show one or the other.  On the English translation there are even notes on the side to help a reader understand context of the original work and help when the translations don’t capture exactly what the original was trying to convey.  There are zoom options for the original in case a reader wanted to take a closer look at the beautiful drawings at the beginning of each section.  Of course, these images are of the highest quality to allow detailed zooms.  To top it all off a user can even drag and drop emblems into personalized collections. 
 	 
