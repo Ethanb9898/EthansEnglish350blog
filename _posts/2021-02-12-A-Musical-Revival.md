@@ -2,7 +2,7 @@ Project: Furnace and Fugue
 
 Project Directors: Nummedal, Tara, and Donna Bilak
 
-https://furnaceandfugue.org/
+[https://furnaceandfugue.org/](https://furnaceandfugue.org/)
 
 # Project Review
 Furnace and Fugues is an interactive online project that revives “Atlanta Fugiens”, a collection of 50 epigrams, emblems and fugues, a melody meant to be sung by three people, published in 1618 by Michael Maier.  These works have all been expertly digitalized with tools allowing users to swap between the translations and original work with ease.  The 
