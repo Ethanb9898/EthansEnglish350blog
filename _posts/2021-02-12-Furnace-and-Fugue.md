@@ -5,7 +5,9 @@ Project Directors: Nummedal, Tara, and Donna Bilak
 https://furnaceandfugue.org/
 
 # Project Review
-Furnace and Fugues is an interactive online project that revives “Atlanta Fugiens”, a collection of 50 epigrams, emblems and fugues, a melody meant to be sung by three people, published in 1618 by Michael Maier.  These works have all been expertly digitalized with tools allowing users to swap between the translations and original work with ease.  The site has been written with an in-house custom site generator named furnace with details listed in their github repository.   
+Furnace and Fugues is an interactive online project that revives “Atlanta Fugiens”, a collection of 50 epigrams, emblems and fugues, a melody meant to be sung by three people, published in 1618 by Michael Maier.  These works have all been expertly digitalized with tools allowing users to swap between the translations and original work with ease.  The 
+site has been written with an in-house custom site generator named furnace with details listed in their github repository.   
+
 The site itself is easy to access and understand.  The newly digitalized works are the first thing people see and leads itself well to an average viewer.  One of the only disappointments with the site is the color scheme and layout on the main menus.  The bright orange colors make the background pop while leaving the text hard to read.
 
 ![for blog](https://user-images.githubusercontent.com/78226473/107837083-4f0c4880-6d6d-11eb-935e-69d9280d0499.png)
