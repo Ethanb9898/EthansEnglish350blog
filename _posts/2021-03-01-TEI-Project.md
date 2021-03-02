@@ -12,3 +12,5 @@ The XML editor Oxygen was easy enough to use.  It was not too much different fro
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/78226473/109702632-7b440980-7b62-11eb-993a-231de5210171.png)
 
+
+Using and learning the basics of Oxygen was very informative and I could see myself using this sort of markup program in the future.  The resources Dr. Stover provided online provided a very strong jumping on point and helped me understand the very basics.  This project broadened my view on the types of programs used in digital humanities and website design.  Before this I was ignorant on anything that goes on behind the scenes of digital humanities besides GitHub.  I look forward to learning even more in the future and furthering my understanding of everything digital humanities.  
