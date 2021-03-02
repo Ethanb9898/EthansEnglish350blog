@@ -9,3 +9,6 @@ The first thing I did was use Microsoft word to comment on the text and annotate
 
 
 The XML editor Oxygen was easy enough to use.  It was not too much different from what I was used to, so I didn’t have too much of a problem learning it.  The only annoyance was that whenever I copied over the code for example, underlining a word, it would not work.  It took some time, and a trip to the XML’s website forums, to discover there was nothing wrong with the actual code. I just had to write it all by hand instead of copy and pasting it over.  
+
+![Screenshot (51)](https://user-images.githubusercontent.com/78226473/109702632-7b440980-7b62-11eb-993a-231de5210171.png)
+
