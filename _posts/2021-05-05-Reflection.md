@@ -1,7 +1,10 @@
-## Project overview
+# Project overview
 When I began my grant “nationalism by numbers”, I never knew there were so many factors that were still unknown.  In the beginning, my project was aiming to determine whether the increasing number of people joining nationalist groups online had an affect on real life attacks and protests.  However, a big problem was the fact that there is no data on the increase of people in these groups.  We know that they have had increasing numbers in the past years, however, there is no peer reviewed data on the specific numbers.  Therefor during the process, I changed from the amount of people in these groups, to the number of bans on online platforms. 
-# Challanges
+## Environmental Scan
 Looking back on my grant, the hardest part was the environmental scan.  Not only had I never done one before, but the topic I was covering didn’t have much other quantitative research done on it.  It is difficult to try and calculate the amount of hate speech online and how much it’s been growing.  I did come across other projects that help me understand what my design could look like and gave an example of what mine could look like finished.  I took special note of Jigsaw’s “Hate by the Numbers” as their data visualization really helped me envision my own.  
+![screenshot jigsaw](https://user-images.githubusercontent.com/78226473/117197801-40ef2680-adb6-11eb-8eed-2d002fb0e998.png)
+
+## Budget
 I had no real troubles with my budget.  Most of it would go towards monthly payments on a website and the data visualization software tableau.  The other bit would only really be needed to buy access to the big data set found in the global terrorism database.  
 The final section in my grant was my resume.  I found it interesting how I had to separate the resume I usually use and the resume I use for this grant writing.  In the grant writing resume, I had to make sure to focus on the necessary skills for my grant.  This made me include more technical skills than I usually would. 
 
